@@ -1,0 +1,9 @@
+streamlit
+numpy
+scikit-learn
+pandas<2.0.0
+
+# pip install -r requirement.txt
+
+# local packages
+-e .
